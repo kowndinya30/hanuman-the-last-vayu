@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.6",
+  "Category": "Games",
+  "Description": "HANUMAN: THE LAST VAYU - pre-production UE5 project scaffold",
+  "Modules": [
+    {
+      "Name": "HanumanLastVayu",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
